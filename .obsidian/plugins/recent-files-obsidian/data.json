@@ -1,36 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Multiagent System (MAS)",
-      "path": "presentation/Multiagent System (MAS).md"
+      "basename": "Index",
+      "path": "Index.md"
     },
     {
       "basename": "index",
       "path": "resources/index.md"
     },
     {
-      "basename": "Index",
-      "path": "Index.md"
-    },
-    {
-      "basename": "framework",
-      "path": "resources/Framework/framework.md"
+      "basename": "index",
+      "path": "random discussions/index.md"
     },
     {
       "basename": "How to use this doc",
       "path": "random discussions/How to use this doc.md"
     },
     {
+      "basename": "Multiagent System (MAS)",
+      "path": "presentation/Multiagent System (MAS).md"
+    },
+    {
       "basename": "index",
       "path": "presentation/index.md"
     },
     {
-      "basename": "index",
-      "path": "random discussions/index.md"
-    },
-    {
       "basename": "new note",
       "path": "_internal/templates/new note.md"
+    },
+    {
+      "basename": "framework",
+      "path": "resources/Framework/framework.md"
     }
   ],
   "omittedPaths": [],
