@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "_internal/templates/new notes.md"
+      "template": "_internal/templates/new note.md"
     }
   ],
   "enable_file_templates": false,
