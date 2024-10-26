@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "How to use this doc",
-      "path": "random discussions/How to use this doc.md"
+      "basename": "Index",
+      "path": "Index.md"
     },
     {
       "basename": "index",
-      "path": "random discussions/index.md"
+      "path": "resources/index.md"
+    },
+    {
+      "basename": "framework",
+      "path": "resources/Untitled/framework.md"
+    },
+    {
+      "basename": "How to use this doc",
+      "path": "random discussions/How to use this doc.md"
     },
     {
       "basename": "Multiagent System (MAS)",
@@ -15,6 +23,10 @@
     {
       "basename": "index",
       "path": "presentation/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "random discussions/index.md"
     },
     {
       "basename": "new note",
