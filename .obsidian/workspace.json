@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/Untitled/framework.md",
+                "file": "resources/Framework/framework.md",
                 "mode": "source",
                 "source": false
               },
@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Index"
             }
+          },
+          {
+            "id": "28311cb9a620b7e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "presentation/Multiagent System (MAS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multiagent System (MAS)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "presentation/Multiagent System (MAS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for Multiagent System (MAS)"
             }
           },
           {
@@ -165,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "presentation/Multiagent System (MAS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Index"
+              "title": "Outgoing links from Multiagent System (MAS)"
             }
           },
           {
@@ -192,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "presentation/Multiagent System (MAS).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline of Multiagent System (MAS)"
             }
           },
           {
@@ -242,14 +256,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a62eb25eede4ed93",
+  "active": "28311cb9a620b7e2",
   "lastOpenFiles": [
     "resources/index.md",
-    "new notes.md",
     "Index.md",
-    "resources/Untitled/framework.md",
+    "new notes.md",
+    "resources/Framework/framework.md",
     "random discussions/How to use this doc.md",
-    "resources/Untitled",
+    "resources/Framework",
     "random discussions/Untitled.md",
     "presentation/Multiagent System (MAS).md",
     "presentation/index.md",
